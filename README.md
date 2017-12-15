@@ -1,4 +1,6 @@
 # best-repo-ever
 Test Repo for Salesforce Trailhead
 shimpjn : making an updated to track changes
-line 4 : This is change to same line that will create a merge conflict in READ.ME
+This is change to same line that will create a merge conflict in READ.ME
+
+
